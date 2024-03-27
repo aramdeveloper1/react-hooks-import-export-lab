@@ -1,6 +1,7 @@
-const username = "Liza";
-const city = "New York";
+export const username = "Liza";
+export const city = "New York";
 
-const image = "https://i.imgur.com/mV8PQxj.gif";
+// data/user.js
+export const image = 'path/to/your/image.jpg'; // Replace with the actual image path
 
 // export all three variables as named exports
